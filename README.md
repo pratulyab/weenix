@@ -6,6 +6,7 @@ The goal of the course was to familiarise students with the internals of operati
 For more info about the instructor, see: http://merlot.usc.edu/william/usc/</p>
 
 <img src="os.png" />
+<img src="weenix.png" />
 
 <h2>Project Goals, Concepts, Challenges and Learnings</h2>
 <ul>
